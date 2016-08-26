@@ -35,6 +35,18 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h1.homepage {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2.homepage {
+    text-align: center;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
