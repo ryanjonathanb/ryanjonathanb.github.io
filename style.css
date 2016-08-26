@@ -13,6 +13,8 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 nav.homepage {
+    padding-top: 40px;
+    padding-bottom: 40px;
     text-align: center;
 }
 a {
