@@ -6,7 +6,7 @@ date: 2016-08-27
 
 A quote to preface this post:
 
-> *"I’m not sure that anyone has a calling. I think, instead, our culture creates situations where passionate people find a place where they can make an impact. When what you do is something that you make important, it doesn’t matter so much what you do.<sup>1></sup>"* – Seth Godin
+> *"I’m not sure that anyone has a calling. I think, instead, our culture creates situations where passionate people find a place where they can make an impact. When what you do is something that you make important, it doesn’t matter so much what you do.<sup>1</sup>"* – Seth Godin
 
 Don’t chase passion.
 
