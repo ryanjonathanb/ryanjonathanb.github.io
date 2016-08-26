@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70vh;
+    width: 110vh;
 }
 #welcome {
     display: flex;              /* establish flex container */
