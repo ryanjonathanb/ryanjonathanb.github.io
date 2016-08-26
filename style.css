@@ -31,6 +31,11 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+p.homepage {
+    width: 66%;
+    margin: 0 auto
+    text-align: center;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
