@@ -6,7 +6,7 @@ date: 2016-08-27
 
 A quote to preface this post:
 
-> *"I’m not sure that anyone has a calling. I think, instead, our culture creates situations where passionate people find a place where they can make an impact. When what you do is something that you make important, it doesn’t matter so much what you do.<sup>1</sup>"* – Seth Godin
+> *"I’m not sure that anyone has a calling. I think, instead, our culture creates situations where passionate people find a place where they can make an impact. When what you do is something that you make important, it doesn’t matter so much what you do.<sup><small>1</small></sup>"* – Seth Godin
 
 Don’t chase passion.
 
@@ -41,8 +41,13 @@ Work on things you are passionate about, if you can help it. If you can’t, wor
 -
 
 1 From the aptly titled http://sethgodin.typepad.com/seths_blog/2016/05/calling-your-finding.html
+
 2 For example, FedEx pioneered number tracking: customers can enter their packet’s number to check where their packet is. Today, the feature seems a no-brainer to us, but it wasn’t developed until the 1970s.
+
 3 Richard Branson, Virgin Group.
+
 4 Tony Fernandes, AirAsia.
+
 5 Jack Ma, Alibaba.com.
+
 6 Tony Hsieh, Zappos.com.
