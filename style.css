@@ -74,3 +74,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.post {
+    font-family: 'Fjord One', serif;
+}
