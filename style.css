@@ -1,5 +1,5 @@
 body {
-    font-family: 'Georgia';
+    font-family: 'Cormorant Garamond';
     margin: 60px auto;
     width: 70%;
 }
@@ -76,5 +76,5 @@ ul.posts li {
     list-style: none;
 }
 .post {
-    font-family: 'Georgia', serif;
+    font-family: serif;
 }
