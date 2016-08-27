@@ -1,5 +1,5 @@
 body {
-    font-family: 'Noto Serif', serif;
+    font-family: 'Merriweather', serif;
     margin: 60px auto;
     width: 70%;
 }
@@ -76,5 +76,4 @@ ul.posts li {
     list-style: none;
 }
 .post {
-    font-family: serif;
 }
