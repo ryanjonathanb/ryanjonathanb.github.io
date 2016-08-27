@@ -14,7 +14,7 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-size: 1.1em;
+    font-size: 1.15em;
     font-weight: bold;
 }
 nav ul li, footer ul li {
@@ -50,7 +50,7 @@ h2.homepage {
     text-align: center;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.75em;
     line-height: 1.4em;
     color: #333;
 }
@@ -67,12 +67,12 @@ p.homepage {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: .85em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.75em;
 }
 
 ul.posts li {
