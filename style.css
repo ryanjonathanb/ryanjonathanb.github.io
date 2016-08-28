@@ -1,5 +1,7 @@
 body {
     font-family: 'TimesNewRoman', "Times New Roman", "Times", times, serif;
+}
+#wrapper {
     margin: 60px auto;
     width: 70%;
 }
