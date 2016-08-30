@@ -12,6 +12,14 @@ body {
     align-items: center;        /* center items horizontally, in this case */
     height: 100vh;
 }
+#homepage-colored {
+width: 100%; 
+background-color: #fdf6e3; 
+border-style: solid; 
+border-color: #fdf6e3; 
+border-width: 2em 15vw; 
+margin-left: -15vw;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
