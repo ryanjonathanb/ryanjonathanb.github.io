@@ -1,6 +1,5 @@
 body {
     font-family: 'TimesNewRoman', "Times New Roman", "Times", times, serif;
-    font-size: 1.75em;
 }
 #wrapper {
     margin: 60px auto;
@@ -84,11 +83,15 @@ h2.homepage {
     text-align: center;
 }
 p {
+    font-size: 1.75em;
     line-height: 1.4em;
     color: #333;
 }
 p.homepage {
     font-size: 1.9em;
+}
+table.homepage {
+    font-size: 1.75em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
