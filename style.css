@@ -13,12 +13,21 @@ body {
     height: 100vh;
 }
 #homepage-colored {
-width: 100%; 
-background-color: #fdf6e3; 
-border-style: solid; 
-border-color: #fdf6e3; 
-border-width: 2em 15vw; 
-margin-left: -15vw;
+    width: 100%; 
+    background-color: #fdf6e3; 
+    border-style: solid; 
+    border-color: #fdf6e3; 
+    border-width: 2em 15vw; 
+    margin-left: -15vw;
+    margin-bottom: 6em;
+}
+#homepage {
+    width: 66%;
+    margin-top: 1.5em;
+    margin-bottom: 6em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -67,14 +76,6 @@ p {
 p.homepage {
     font-size: 1.9em;
 }
-#homepage {
-    width: 66%;
-    margin-top: 1.5em;
-    margin-bottom: 6em;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .85em;
@@ -87,6 +88,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-.post {
 }
