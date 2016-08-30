@@ -20,7 +20,6 @@ body {
     border-width: 2em 15vw; 
     margin-left: -15vw;
     margin-bottom: 6em;
-    elementoverflow: hidden;
 }
 #homepage {
     width: 66%;
