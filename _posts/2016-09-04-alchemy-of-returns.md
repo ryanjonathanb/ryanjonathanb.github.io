@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Alchemy of Returns"
+title: "The alchemy of returns"
 date: 2016-09-04
 ---
 A good rule of thumb that I use to understand returns on investments (monetary or otherwise): the amount of return you receive is affected by time of the investment, risks involved, skills utilized, capitals deployed, and a random factor, luck.
