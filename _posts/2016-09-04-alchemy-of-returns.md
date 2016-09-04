@@ -3,7 +3,7 @@ layout: post
 title: "The alchemy of returns"
 date: 2016-09-04
 ---
-A good rule of thumb that I use to understand returns on investments (monetary or otherwise): the amount of return you receive is affected by time of the investment, risks involved, skills utilized, capitals deployed, and a random factor, luck.
+A good rule of thumb that I use to understand returns on investments (monetary or otherwise): the amount of return* you receive is affected by time of the investment, risks involved, skills utilized, capitals deployed, and a random factor, luck.
 
 **Return = f(Time, Risk, Skill, Capital, Luck)**
 
@@ -19,6 +19,6 @@ _Capital_ - the amount of capital (usually something of monetary value) committe
 
 _Luck_ - there's a reason why we say "Good luck on your ____". A good luck can make up for all the deficiencies in the investment; a bad luck can cause loss in what otherwise is a good business.
 
-A note on _returns_: I am talking about _absolute returns_ here; that is, the _ultimate amount_ of what is received, i.e. the whether or not you passed that test you're studying for, or how much life satisfaction working for 20 years in corporate finance brings.
+* A note on _returns_: I am talking about _absolute returns_ here; that is, the _ultimate amount_ of what is received, i.e. the whether or not you passed that test you're studying for, or how much life satisfaction working for 20 years in corporate finance brings.
 
 Finally, you may as well skip this article go watch _[The Big Short](http://www.imdb.com/title/tt1596363/)_ to see the formula in action.
