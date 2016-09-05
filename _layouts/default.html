@@ -17,12 +17,7 @@
 			<footer>
 	    		<ul>
                     <li>
-                        <script language="JavaScript">
-                            var username = "ryanjonathanb";
-                            var hostname = "gmail.com";
-                            var linktext = username + "@" + hostname ;
-                            document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + "email" + "</a>");
-                            </script>
+                        {% include js_email.html %}
                     </li>
 	        		<li><a href="mailto:ryanjonathanb@gmail.com">email</a></li>
 	        		<li><a href="https://id.linkedin.com/in/ryanjonathanb">linkedin</a></li>
