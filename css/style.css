@@ -16,8 +16,6 @@ body {
 }
 #homequote {
     height: 100vh;
-    display: flex;              /* establish flex container */
-    flex-direction: column;     /* stack flex items vertically */
     align-items: center;        /* center items horizontally, in this case */
 }
 #homepage-colored {
