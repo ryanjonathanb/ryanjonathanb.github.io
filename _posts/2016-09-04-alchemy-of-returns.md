@@ -19,6 +19,6 @@ _Capital_ - the amount of capital (usually something of monetary value) committe
 
 _Luck_ - there's a reason why we say "Good luck on your ____". A good luck can make up for all the deficiencies in the investment; a bad luck can cause loss in what otherwise is a good business.
 
-* A note on _returns_: I am talking about _absolute returns_ here; that is, the _ultimate amount_ of what is received, i.e. the whether or not you passed that test you're studying for, or how much life satisfaction working for 20 years in corporate finance brings.
+\* A note on _returns_: I am talking about _absolute returns_ here; that is, the _ultimate amount_ of what is received, i.e. the whether or not you passed that test you're studying for, or how much life satisfaction working for 20 years in corporate finance brings. Not to be mistaken for relative returns, i.e. a 1% return in a day is relatively higher than a 20% return in a year, but in absolute terms, the 20% return is better. 
 
 Finally, you may as well skip this article go watch _[The Big Short](http://www.imdb.com/title/tt1596363/)_ to see the formula in action.
