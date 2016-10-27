@@ -14,12 +14,15 @@ body {
     align-items: center;        /* center items horizontally, in this case */
     height: 100vh;
 }
+#homequote {
+    height: 100vh;
+}
 #homepage-colored {
-    width: 100%; 
-    background-color: #fdf6e3; 
-    border-style: solid; 
-    border-color: #fdf6e3; 
-    border-width: 2em 15vw; 
+    width: 100%;
+    background-color: #fdf6e3;
+    border-style: solid;
+    border-color: #fdf6e3;
+    border-width: 2em 15vw;
     margin-left: -15vw;
     margin-bottom: 6em;
 }
@@ -100,8 +103,8 @@ footer {
     font-size: .85em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.75em;
 }
 
