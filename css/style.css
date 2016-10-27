@@ -15,7 +15,7 @@ body {
     height: 100vh;
 }
 #homequote {
-    height: 100vh;
+    height: 90vh;
     align-items: center;        /* center items horizontally, in this case */
     text-align: center;
 }
