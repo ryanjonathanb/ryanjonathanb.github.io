@@ -9,7 +9,7 @@ A good rule of thumb that I use to understand returns on investments (monetary o
 
 where:
 
-_Time_ - is how long the investment ran. The longer it is the better the return tends to be. Or in other words, it is easier to get better returns over larger periods of time. A 10 year buy-and-hold strategy is apt to yield better return than a split-second stock trade. Longer time periods mitigates risk.
+_Time_ - is how long the investment ran. The longer it is the better the return tends to be. Or in other words, it is easier to get better returns over larger periods of time. A 10 year buy-and-hold strategy is apt to yield better overall return than a split-second stock trade. Longer time periods mitigates risk.
 
 _Risk_ - is how exposed the investment is to the possibilities of loss. The higher it is the better the return tends to be, provided it does not flop. Striking out on your own as a fledgling entrepreneur can yield a significantly higher return than going to an MBA program, but having the degree makes it much easier to land a good job, which is safer and more stable.
 
