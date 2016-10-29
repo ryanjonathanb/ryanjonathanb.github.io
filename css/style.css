@@ -18,18 +18,10 @@ body {
     height: 80vh;
     align-items: center;        /* center items horizontally, in this case */
     text-align: center;
-    color: #999;
-    transition: 1.5s;
-    -webkit-transition: 1.5s;
 }
-#homequote div:hover {
-    color: #444;
-    transition: 1.5s;
-    -webkit-transition: 1.5s;
-}
-/*
 #homequote p {
     color: #999;
+    padding: 15em;
     transition: 1.5s;
     -webkit-transition: 1.5s;
 }
@@ -38,7 +30,7 @@ body {
     transition: 1.5s;
     -webkit-transition: 1.5s;
 }
-*/
+
 #homepage-colored {
     width: 100%;
     background-color: #fdf6e3;
