@@ -19,7 +19,7 @@ body {
     align-items: center;        /* center items horizontally, in this case */
     text-align: center;
 }
-#homequote p:hover {
+p#homequote:hover {
     color: #666;
 }
 #homepage-colored {
