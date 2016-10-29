@@ -19,6 +19,9 @@ body {
     align-items: center;        /* center items horizontally, in this case */
     text-align: center;
 }
+#homequote.hover {
+    color: #666;
+}
 #homepage-colored {
     width: 100%;
     background-color: #fdf6e3;
