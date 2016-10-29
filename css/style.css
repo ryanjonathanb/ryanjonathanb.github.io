@@ -21,7 +21,6 @@ body {
 }
 #homequote p {
     color: #999;
-    padding: 15em;
     transition: 1.5s;
     -webkit-transition: 1.5s;
 }
