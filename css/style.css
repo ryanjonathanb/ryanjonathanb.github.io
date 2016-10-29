@@ -21,6 +21,8 @@ body {
 }
 #homequote p {
     color: #999;
+    transition: 2s;
+    -webkit-transition: 2s;
 }
 #homequote p:hover {
     color: #666;
