@@ -22,7 +22,7 @@ body {
 #homequote p {
     color: #999;
 }
-p:hover {
+#homequote p:hover {
     color: #666;
 }
 #homepage-colored {
