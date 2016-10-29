@@ -24,6 +24,8 @@ body {
 }
 #homequote p:hover {
     color: #666;
+    transition-duration: 1s;
+    -webkit-transition-duration: 1s;
 }
 #homepage-colored {
     width: 100%;
