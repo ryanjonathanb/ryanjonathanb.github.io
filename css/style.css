@@ -21,13 +21,13 @@ body {
 }
 #homequote p {
     color: #999;
-    transition: 4.5s;
-    -webkit-transition: 4.5s;
+    transition: 10s;
+    -webkit-transition: 10s;
 }
 #homequote p:hover {
     color: #444;
-    transition: 2s;
-    -webkit-transition: 2s;
+    transition: 1.5s;
+    -webkit-transition: 1.5s;
 }
 
 #homepage-colored {
