@@ -52,3 +52,5 @@ Work on things you are passionate about, if you can help it. If you can’t, wor
 5 Jack Ma, Alibaba.com.
 
 6 Tony Hsieh, Zappos.com.
+
+_Last updated: 8 Sept 2017_
