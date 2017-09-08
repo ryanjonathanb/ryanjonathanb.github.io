@@ -3,7 +3,7 @@ layout: post
 title: "No business plan survives first contact with customers, but…"
 date: 2017-09-08
 ---
-<img src="https://unsplash.com/search/photos/calendar?photo=4H9IuFBIpYM"/>
+<img src="ryanjonathanb.com/works/assets/writing_images/2017-09-08-the-plan-is-no-plan.jpg"/>
 
 It doesn’t mean we shouldn’t have one in the first place.
 
