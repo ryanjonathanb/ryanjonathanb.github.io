@@ -15,7 +15,7 @@ Don’t ditch the plan altogether. It is still a useful tool. It clarifies goals
 
 I’d say have a plan, yet still be ready to adapt.
 
-<em>-</em>
+`-`
 <sup>1</sup> Attributed to Dwight D. Eisenhower.
 
 _Last updated: 08 Sept 2017_
