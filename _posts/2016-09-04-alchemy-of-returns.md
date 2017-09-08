@@ -3,7 +3,7 @@ layout: post
 title: "The alchemy of returns"
 date: 2016-09-04
 ---
-<img src="http://ryanjonathanb.com/works/assets/writing_images/2016-09-04-alchemy-of-returns.jpg" width="100%" title="Photo by Azer Koçulu on Unsplash" />
+<img src="http://ryanjonathanb.com/works/assets/writing_images/2016-09-04-alchemy-of-returns.jpg" width="100%" title="Photo by rawpixel.com on Unsplash" />
 
 A good rule of thumb that I use to understand returns on investments (monetary or otherwise): the amount of return* you receive is affected by time of the investment, risks involved, skills utilized, capitals deployed, and a random factor, luck.
 
