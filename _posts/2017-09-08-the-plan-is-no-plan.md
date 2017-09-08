@@ -5,7 +5,7 @@ date: 2017-09-08
 ---
 It doesn’t mean we shouldn’t have one in the first place.
 
-In today’s world of rapid deployments and “the plan is no plan”, having a plan written down not so cool as not having one. Why would you bother, when you know for a fact that it won’t go as you planned anyway? It’s an exciting notion to just jump in without any preparation whatsoever like the swashbuckling adventurers of yore.
+In today’s world of rapid deployments and “the plan is no plan”, having a plan written down is not so cool as not having one. Why would you bother, when you know for a fact that it won’t go as you planned anyway? It’s an exciting notion to just jump in without any preparation whatsoever like the swashbuckling adventurers of yore.
 
 But I beg to differ.
 
