@@ -4,6 +4,7 @@ title: "No business plan survives first contact with customers, but…"
 date: 2017-09-08
 ---
 <img src="ryanjonathanb.com/works/assets/writing_images/2017-09-08-the-plan-is-no-plan.jpg"/>
+![Image](http://ryanjonathanb.com/works/assets/writing_images/2017-09-08-the-plan-is-no-plan.jpg)
 
 It doesn’t mean we shouldn’t have one in the first place.
 
