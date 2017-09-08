@@ -3,7 +3,7 @@ layout: post
 title: "On passion and finding a calling"
 date: 2016-08-27
 ---
-<img src="http://ryanjonathanb.com/works/assets/writing_images/2016-08-27-on-passion-and-finding-a-calling.jpg" width="100%" title="Photo by Azer Koçulu on Unsplash" />
+<img src="http://ryanjonathanb.com/works/assets/writing_images/2016-08-27-on-passion.jpg" width="100%" title="Photo by Azer Koçulu on Unsplash" />
 
 A quote to preface this post:
 
