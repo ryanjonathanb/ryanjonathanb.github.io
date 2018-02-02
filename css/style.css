@@ -1,6 +1,7 @@
 body {
     padding: 0;
     font-family: 'TimesNewRoman', "Times New Roman", "Times", times, serif;
+    max-width: 1920px;
 }
 #wrapper {
     margin: 2em auto;
@@ -20,14 +21,14 @@ body {
     text-align: center;
 }
 #homequote p {
-    color: #999;
+    color: #aaa;
     transition: 8s;
     -webkit-transition: 8s;
 }
 #homequote p:hover {
-    color: #333;
-    transition: 1.5s;
-    -webkit-transition: 1.5s;
+    color: #222;
+    transition: 1.0s;
+    -webkit-transition: 1.0s;
 }
 
 #homepage-colored {
