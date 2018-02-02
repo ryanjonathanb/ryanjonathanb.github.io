@@ -7,6 +7,11 @@ body {
     width: 70%;
     max-width: 1920px;
 }
+@media only screen and (max-device-width: 480px) {
+  #wrapper {
+    width: 95%;
+  }
+}
 #welcome {
     display: flex;              /* establish flex container */
     flex-direction: column;     /* stack flex items vertically */
