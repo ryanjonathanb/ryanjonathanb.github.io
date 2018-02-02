@@ -11,6 +11,9 @@ body {
   #wrapper {
     width: 95%;
   }
+  #homepage {
+    width: 95%;
+  }
 }
 #welcome {
     display: flex;              /* establish flex container */
