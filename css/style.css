@@ -7,14 +7,6 @@ body {
     width: 70%;
     max-width: 1920px;
 }
-@media only screen and (max-device-width: 480px) {
-  #wrapper {
-    width: 95%;
-  }
-  #homepage {
-    width: 100%;
-  }
-}
 #welcome {
     display: flex;              /* establish flex container */
     flex-direction: column;     /* stack flex items vertically */
@@ -55,7 +47,14 @@ body {
     margin-right: auto;
     text-align: center;
 }
-
+@media only screen and (max-device-width: 480px) {
+  #wrapper {
+    width: 95%;
+  }
+  #homepage {
+    width: 100%;
+  }
+}
 /* End IDs */
 
 /* Navigations */
