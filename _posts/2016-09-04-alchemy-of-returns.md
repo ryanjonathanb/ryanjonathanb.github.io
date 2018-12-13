@@ -25,4 +25,4 @@ _Luck_ - there's a reason why we say "Good luck on your ____". A good luck can m
 
 Finally, you may as well skip this article go watch _[The Big Short](http://www.imdb.com/title/tt1596363/)_ to see the formula in action.
 
-_Last updated: 8 Sept 2017_
+_Last updated: 13 December 2018_
