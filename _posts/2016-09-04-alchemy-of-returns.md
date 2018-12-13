@@ -21,7 +21,7 @@ _Capital_ - the amount of capital (usually something of monetary value) committe
 
 _Luck_ - there's a reason why we say "Good luck on your ____". A good luck can make up for all the deficiencies in the investment; a bad luck can cause loss in what otherwise is a good business.
 
-<small>\* By _return_, I am talking about the final result of what is attempted. For lack of a clearer term, I am calling it 'holistic return', i.e. the whether or not you passed that test you're studying for, or how much life satisfaction working for 20 years in corporate finance brings. This is in contrast with 'relative return', i.e. a 1% return in a day is relatively higher than a 20% return in a year, but as a whole, the 20% return is better.</small>
+<small>\* By _return_, I am talking about the final and comprehensive result of what is attempted, monetary or otherwise; i.e. _the total return_. This is in contrast with 'relative return', i.e. a 1% return in a day is relatively higher than a 20% return in a year, but as a whole (in terms of total return) the 20% return is better.</small>
 
 Finally, you may as well skip this article go watch _[The Big Short](http://www.imdb.com/title/tt1596363/)_ to see the formula in action.
 
